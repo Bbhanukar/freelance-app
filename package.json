@@ -1,0 +1,25 @@
+{
+  "name": "freelance-app",
+  "version": "1.0.0",
+  "description": "freelance app for freelancers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bbhanukar/freelance-app.git"
+  },
+  "author": "Bhavesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bbhanukar/freelance-app/issues"
+  },
+  "homepage": "https://github.com/Bbhanukar/freelance-app#readme",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.13"
+  }
+}
